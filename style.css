@@ -8,7 +8,7 @@ body{
     display: flex;
     color:white;
     background-repeat: no-repeat;
-    margin-bottom: 50px;
+
 }
 .section1img{
     margin-left: 30%;
@@ -39,6 +39,57 @@ body{
 .all{
     text-align: center;
 }
-.sector2 h3{
-    font-size: 50px;
+.section2 h3{
+    font-size: 25px;
+}
+.section2 .font{
+    font-size: 30px;
+    color: teal;
+    font-weight: 600;
+}
+.flex{
+    display: flex;
+    padding-bottom: 50px;
+}
+.padding{
+    padding-left: 15%;
+}
+.p1{
+    background-image: linear-gradient(grey,black);
+    padding: 10px 5px;
+    text-decoration: none;
+    color: white;
+}
+.p2{
+    background-image: linear-gradient(grey,black);
+    padding: 10px 8px;
+    text-decoration: none;
+    color: white;
+}
+.p3{
+    background-image: linear-gradient(grey,black);
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+}
+.p4{
+    background-image: linear-gradient(grey,black);
+    padding: 10px 3px;
+    text-decoration: none;
+    color: white;
+}
+.section2{
+    padding-bottom: 150px;
+    padding-top: 100px;
+    background-color: rgba(168, 167, 167, 0.801);
+}
+.cv{
+    background-color: gray;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: honeydew;
+    border-radius: 20px;
+}
+.cvboth{
+    text-align: center;
 }
