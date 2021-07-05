@@ -1,0 +1,44 @@
+body{
+    margin:auto;
+    font-family: 'STIX Two Math', serif;
+}
+.section1{
+    background-image: url(images/Untitled\ design\ \(1\).png);
+    background-size: cover;
+    display: flex;
+    color:white;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.section1img{
+    margin-left: 30%;
+    width: 40%;
+}
+.section1text{
+    width: 20%;
+    margin-top: 12%;
+    margin-left: 7%;
+
+}
+#section1h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+#section1h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+.webdev{
+    background-color: teal;
+    border: none;
+    color: black;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.all{
+    text-align: center;
+}
+.sector2 h3{
+    font-size: 50px;
+}
