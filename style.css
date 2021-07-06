@@ -93,3 +93,34 @@ body{
 .cvboth{
     text-align: center;
 }
+.section3{
+    margin-top: 8%;
+}
+.section3img{
+    border-radius: 50%;
+    margin-left: 10%;
+}
+.section3txt{
+    width: 30%;
+    padding-right:20%;
+}
+.para{
+    padding-left: 2%;
+}
+.section3 a{
+    text-decoration: none;
+}
+.section3 .bold
+{
+    color: teal;
+    font-weight: bolder;
+}
+.section3 .text{
+    color: black;
+    font-weight: bold;
+    padding-bottom: 30px;
+    margin-left: 2%;
+}
+.flex .phone{
+    margin-left: 15%;
+}
